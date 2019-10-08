@@ -1,0 +1,14 @@
+C:\Users\Pro100Roma\source\repos\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Pro100Roma\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Pro100Roma\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Pro100Roma\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Pro100Roma\source\repos\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Pro100Roma\source\repos\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Pro100Roma\source\repos\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Dovmat\Desktop\C#Bitva\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Dovmat\Desktop\C#Bitva\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Dovmat\Desktop\C#Bitva\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Dovmat\Desktop\C#Bitva\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Dovmat\Desktop\C#Bitva\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Dovmat\Desktop\C#Bitva\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Dovmat\Desktop\C#Bitva\MyGame\MyGame\obj\Debug\MyGame.pdb
